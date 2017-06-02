@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "27b65d44-9d0b-4445-b0f6-a82a7e3eebf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "boy_player-evo-04": {
+      "ver": "1.0.3",
+      "uuid": "d1354a05-270f-496a-ae94-024c893d4d76",
+      "rawTextureUuid": "27b65d44-9d0b-4445-b0f6-a82a7e3eebf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 360,
+      "height": 511,
+      "rawWidth": 363,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
